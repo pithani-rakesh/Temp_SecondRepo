@@ -1,2 +1,6 @@
 first line of this file
+<<<<<<< HEAD
 third line
+=======
+second line
+>>>>>>> parent of f191458 (Revert "Added text to p.txt")
