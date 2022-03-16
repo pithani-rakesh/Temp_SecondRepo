@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 123456789
+=======
+Namashey
+>>>>>>> parent of ef27b02 (Revert "Add a line in h.txt")
